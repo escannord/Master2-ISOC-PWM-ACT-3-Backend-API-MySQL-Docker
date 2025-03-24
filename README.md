@@ -10,7 +10,7 @@ docker-compose --version
 ## Installation
 
 ```bash
-git clone https://github.com/escannord/Master2-ISOC-PWM-ACT-2-Backend-api.git
+git clone https://github.com/escannord/Master2-ISOC-PWM-ACT-3-Backend-API-MySQL-Docker.git
 ```
 ou forker le repositorie.
 Ensuite, dans le terminal, il faut se placer dans le répertoire racine du projet et taper cette commande pour installer toutes les dépendances nécessaires à l'implémentation du projet.
